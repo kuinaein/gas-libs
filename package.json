@@ -1,0 +1,23 @@
+{
+  "name": "gas-libs",
+  "version": "0.1.0",
+  "description": "Google Apps Script ライブラリのサンプルプロジェクト",
+  "main": "Code.gs",
+  "repository": "https://github.com/kuinaein/gas-libs",
+  "author": "Kuina <kuinanein@gmail.com>",
+  "license": "Unlicense",
+  "types": "./lib.d.ts",
+  "scripts": {
+    "lint": "yarn eslint . --ext .gs,.html,.d.ts",
+    "lint:fix": "yarn eslint --fix . --ext .gs,.html,.d.ts"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^0.0.27",
+    "eslint": "^5.4.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-googleappsscript": "^1.0.1",
+    "eslint-plugin-html": "^4.0.5",
+    "typescript": "^3.0.3",
+    "typescript-eslint-parser": "^18.0.0"
+  }
+}

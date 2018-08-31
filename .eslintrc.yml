@@ -1,0 +1,32 @@
+extends: google
+plugins:
+  - googleappsscript
+  - html
+rules:
+  spaced-comment:
+    - error
+    - always
+    - markers:
+        - /
+
+overrides:
+  - files: '*.gs'
+    env:
+      googleappsscript/googleappsscript: true
+    rules:
+      no-var: off
+      no-unused-vars:
+        - error
+        - vars: local
+          args: none
+          caughtErrors: all
+      prefer-spread: off
+
+  - files: '*.html'
+    env:
+      es6: true
+
+  - files: '*.d.ts'
+    parser: typescript-eslint-parser
+    rules:
+      no-unused-vars: off

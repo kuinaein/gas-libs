@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+  "prettier.bracketSpacing": false,
+  "eslint.validate": ["javascript", "typescript"],
+  "files.associations": {
+    "*.gs": "javascript"
+  }
+}

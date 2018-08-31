@@ -4,6 +4,8 @@
   "prettier.singleQuote": true,
   "prettier.bracketSpacing": false,
   "eslint.validate": ["javascript", "typescript"],
+  "plantuml.exportOutDirName": ".",
+  "plantuml.exportSubFolder": false,
   "files.associations": {
     "*.gs": "javascript"
   }

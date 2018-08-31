@@ -1,0 +1,20 @@
+@startuml "browser-to-lib-flow"
+
+participant "ブラウザ" as Browser
+participant "シート上のスクリプト" as DocScript
+participant "シート上のスクリプト\nのプロパティ" as DocScriptProp
+participant "ライブラリ" as Library
+participant "ライブラリ上\nのプロパティ" as LibraryProp
+
+note over Browser :                保存ボタン押下
+Browser       -->x Library :       フロントエンドから直接ライブラリのメソッドを呼べない
+Browser       ->   DocScript :     保存指示
+Library       -->x DocScriptProp:  他のスクリプトの\nプロパティを\n直接読み書きできない
+DocScript     ->   DocScriptProp : 自分の Properties\nオブジェクトを取得
+DocScriptProp -->  DocScript
+DocScript     ->   Library :       Properties オブジェクト等を渡し、\nライブラリに保存処理を委譲
+Library       ->   LibraryProp :   ライブラリ自身の\nプロパティを更新
+LibraryProp   -->  Library
+Library       -->  DocScriptProp : 渡された Properties\nオブジェクトを\n利用して更新
+Library       -->  Browser :       更新完了通知
+@enduml

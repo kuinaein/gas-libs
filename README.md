@@ -3,6 +3,10 @@
 - JSDoc は「Visual Studio Code で補完が効く」「ESLint がエラーを警告を出さない」程度に記述しています
   - なので本物の JSDoc には通らないかもしれません...
 
+## 保存処理のシーケンス図
+
+![保存処理のシーケンス図](./browser-to-lib-flow.svg '保存処理のシーケンス図')
+
 ## ファイル説明
 
 ### 本体
@@ -16,6 +20,7 @@
 - `lib.d.ts` Visual Studio Code 用の型定義
 - `.editorconfig` フォーマッタの指定
 - `.vscode/settings.json` Visual Studio Code のプロジェクト設定。フォーマッタの指定等
+- `browser-to-lib-flow.*` PlantUML で描いた上記シーケンス図
 
 ## ライセンス
 

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="609px" preserveAspectRatio="none" style="width:700px;height:609px;" version="1.1" viewBox="0 0 700 609" width="700px" zoomAndPan="magnify">
+  <defs>
+    <filter height="300%" id="f1nogzfpofvbyr" width="300%" x="-1" y="-1">
+      <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+      <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+      <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+      <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+    </filter>
+  </defs>
+  <g>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="66" x2="66" y1="62.2358" y2="545.1321"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="192" x2="192" y1="62.2358" y2="545.1321"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="360" x2="360" y1="62.2358" y2="545.1321"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="514" x2="514" y1="62.2358" y2="545.1321"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="642" x2="642" y1="62.2358" y2="545.1321"/>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="34.1179" style="stroke: #A80036; stroke-width: 1.5;" width="70" x="29" y="23.1179"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="36" y="46.2318">ブラウザ</text>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="34.1179" style="stroke: #A80036; stroke-width: 1.5;" width="70" x="29" y="544.1321"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="36" y="567.246">ブラウザ</text>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="34.1179" style="stroke: #A80036; stroke-width: 1.5;" width="154" x="113" y="23.1179"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="140" x="120" y="46.2318">シート上のスクリプト</text>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="34.1179" style="stroke: #A80036; stroke-width: 1.5;" width="154" x="113" y="544.1321"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="140" x="120" y="567.246">シート上のスクリプト</text>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="54.2358" style="stroke: #A80036; stroke-width: 1.5;" width="154" x="281" y="3"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="140" x="288" y="26.1139">シート上のスクリプト</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="316" y="46.2318">のプロパティ</text>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="54.2358" style="stroke: #A80036; stroke-width: 1.5;" width="154" x="281" y="544.1321"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="140" x="288" y="567.246">シート上のスクリプト</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="316" y="587.3639">のプロパティ</text>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="34.1179" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="470" y="23.1179"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="477" y="46.2318">ライブラリ</text>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="34.1179" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="470" y="544.1321"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="477" y="567.246">ライブラリ</text>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="54.2358" style="stroke: #A80036; stroke-width: 1.5;" width="98" x="591" y="3"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="598" y="26.1139">ライブラリ上</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="598" y="46.2318">のプロパティ</text>
+    <rect fill="#FEFECE" filter="url(#f1nogzfpofvbyr)" height="54.2358" style="stroke: #A80036; stroke-width: 1.5;" width="98" x="591" y="544.1321"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="598" y="567.246">ライブラリ上</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="598" y="587.3639">のプロパティ</text>
+    <path d="M8,77.2358 L8,105.2358 L120,105.2358 L120,87.2358 L110,77.2358 L8,77.2358 " fill="#FBFB77" filter="url(#f1nogzfpofvbyr)" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <path d="M110,77.2358 L110,87.2358 L120,87.2358 L110,77.2358 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="91" x="14" y="97.1988">保存ボタン押下</text>
+    <line style="stroke: #A80036; stroke-width: 2.0;" x1="496" x2="506" y1="134.5979" y2="144.5979"/>
+    <line style="stroke: #A80036; stroke-width: 2.0;" x1="496" x2="506" y1="144.5979" y2="134.5979"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="66" x2="501" y1="139.5979" y2="139.5979"/>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="338" x="73" y="133.8799">フロントエンドから直接ライブラリのメソッドを呼べない</text>
+    <polygon fill="#A80036" points="180,168.2789,190,172.2789,180,176.2789,184,172.2789" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <line style="stroke: #A80036; stroke-width: 1.0;" x1="66" x2="186" y1="172.2789" y2="172.2789"/>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="52" x="73" y="166.5609">保存指示</text>
+    <line style="stroke: #A80036; stroke-width: 2.0;" x1="366" x2="376" y1="237.3219" y2="247.3219"/>
+    <line style="stroke: #A80036; stroke-width: 2.0;" x1="366" x2="376" y1="247.3219" y2="237.3219"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="372" x2="513" y1="242.3219" y2="242.3219"/>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="104" x="377" y="199.2419">他のスクリプトの</text>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="78" x="377" y="217.9229">プロパティを</text>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="130" x="377" y="236.6039">直接読み書きできない</text>
+    <polygon fill="#A80036" points="348,289.6839,358,293.6839,348,297.6839,352,293.6839" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <line style="stroke: #A80036; stroke-width: 1.0;" x1="192" x2="354" y1="293.6839" y2="293.6839"/>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="107" x="199" y="269.2849">自分の Properties</text>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="117" x="199" y="287.9659">オブジェクトを取得</text>
+    <polygon fill="#A80036" points="203,303.6839,193,307.6839,203,311.6839,199,307.6839" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="197" x2="359" y1="307.6839" y2="307.6839"/>
+    <polygon fill="#A80036" points="502,355.046,512,359.046,502,363.046,506,359.046" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <line style="stroke: #A80036; stroke-width: 1.0;" x1="192" x2="508" y1="359.046" y2="359.046"/>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="211" x="199" y="334.647">Properties オブジェクト等を渡し、</text>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="169" x="199" y="353.328">ライブラリに保存処理を委譲</text>
+    <polygon fill="#A80036" points="630,406.408,640,410.408,630,414.408,634,410.408" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <line style="stroke: #A80036; stroke-width: 1.0;" x1="514" x2="636" y1="410.408" y2="410.408"/>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="104" x="521" y="386.009">ライブラリ自身の</text>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="104" x="521" y="404.69">プロパティを更新</text>
+    <polygon fill="#A80036" points="525,420.408,515,424.408,525,428.408,521,424.408" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="519" x2="641" y1="424.408" y2="424.408"/>
+    <polygon fill="#A80036" points="371,490.451,361,494.451,371,498.451,367,494.451" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="365" x2="513" y1="494.451" y2="494.451"/>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="120" x="377" y="451.371">渡された Properties</text>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="91" x="377" y="470.052">オブジェクトを</text>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="78" x="377" y="488.733">利用して更新</text>
+    <polygon fill="#A80036" points="77,523.1321,67,527.1321,77,531.1321,73,527.1321" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="71" x2="513" y1="527.1321" y2="527.1321"/>
+    <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="78" x="83" y="521.4141">更新完了通知</text>    <!--
+@startuml "browser-to-lib-flow"
+
+participant "ブラウザ" as Browser
+participant "シート上のスクリプト" as DocScript
+participant "シート上のスクリプト\nのプロパティ" as DocScriptProp
+participant "ライブラリ" as Library
+participant "ライブラリ上\nのプロパティ" as LibraryProp
+
+note over Browser :                保存ボタン押下
+Browser       - ->x Library :       フロントエンドから直接ライブラリのメソッドを呼べない
+Browser       ->   DocScript :     保存指示
+Library       - ->x DocScriptProp:  他のスクリプトの\nプロパティを\n直接読み書きできない
+DocScript     ->   DocScriptProp : 自分の Properties\nオブジェクトを取得
+DocScriptProp - ->  DocScript
+DocScript     ->   Library :       Properties オブジェクト等を渡し、\nライブラリに保存処理を委譲
+Library       ->   LibraryProp :   ライブラリ自身の\nプロパティを更新
+LibraryProp   - ->  Library
+Library       - ->  DocScriptProp : 渡された Properties\nオブジェクトを\n利用して更新
+Library       - ->  Browser :       更新完了通知
+@enduml
+
+PlantUML version 1.2018.03(Fri Apr 06 01:59:15 JST 2018)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 10.0.2+13
+Operating System: Linux
+OS Version: 4.18.5-arch1-1-ARCH
+Default Encoding: UTF-8
+Language: ja
+Country: JP
+-->  </g>
+</svg>

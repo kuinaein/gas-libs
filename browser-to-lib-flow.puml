@@ -15,6 +15,7 @@ DocScriptProp -->  DocScript
 DocScript     ->   Library :       Properties オブジェクト等を渡し、\nライブラリに保存処理を委譲
 Library       ->   LibraryProp :   ライブラリ自身の\nプロパティを更新
 LibraryProp   -->  Library
-Library       -->  DocScriptProp : 渡された Properties\nオブジェクトを\n利用して更新
+Library       ->   DocScriptProp : 渡された Properties\nオブジェクトを\n利用して更新
+DocScriptProp -->  Library
 Library       -->  Browser :       更新完了通知
 @enduml
